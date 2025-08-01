@@ -1,10 +1,10 @@
 # 📈 sql-exploratory-data-analysis
 Welcome to the SQL Exploratory Data Analysis Project repository! This project explores data  to create an understanding to provide analytical solutions, from building a data warehouse to generating actionable insights, Designed as a project that highlights industry best practices in data engineering and analytics
 -
-📝Project Requirements
-Exploratory Data Analysis (Data Analytics) 
+📝Project Requirements: /n
+Perform Exploratory Data Analysis (Data Analytics) 
 
-✔️Objective
+✔️Objective: /n
 Perform EDA using SQL Server to analyze sales data, enabling analytical reporting and informed decision making.
 
 🧮Specifications
