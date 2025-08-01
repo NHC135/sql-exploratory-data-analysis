@@ -13,7 +13,7 @@ Data Profiling: examining and summarizing datasets to better understand their st
 Aggregations: summarize data to help you identify patterns, trends, and anomalies across groups or time periods.
 Subquery: used to generate complex data from the sources 
 
--
+
 ## 🎯BI: Analytics & Reporting (Data Analytics)     
 
 ## Objective  
@@ -27,7 +27,7 @@ Sales Trend
 
 Theses insights empower stakehodlers with key business metrics, enabling strategic decision making  
 
--
+
 ## 🚧 License    
 This project is licensed under the MIT License. You are free to use, modify, and share this projec twiht proper attribution.
 
