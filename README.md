@@ -25,10 +25,12 @@ Product Performance
 
 Sales Trend
 
-Theses insights empower stakehodlers with key business metrics, enabling strategic decision making
+Theses insights empower stakehodlers with key business metrics, enabling strategic decision making  
+
 -
-🚧 License
+🚧 License  
 This project is licensed under the MIT License. You are free to use, modify, and share this projec twiht proper attribution.
+
 -
-🎁 About Me
+🎁 About Me  
 Hello! I'm Nathaniel Hwan Choi, a finance grad but also a data enthusiast!
