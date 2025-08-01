@@ -3,16 +3,15 @@ Welcome to the SQL Exploratory Data Analysis Project repository! This project ex
 -
 📝Project Requirements
 Exploratory Data Analysis (Data Analytics) 
--
+
 ✔️Objective
 Perform EDA using SQL Server to analyze sales data, enabling analytical reporting and informed decision making.
--
+
 🧮Specifications
 Queries: used to retrieve necessary data to fulfill understanding
 Data Profiling: examining and summarizing datasets to better understand their structure, quality, and content.
 Aggregations: summarize data to help you identify patterns, trends, and anomalies across groups or time periods.
 Subquery: used to generate complex data from the sources 
-
 
 ----
 🎯BI: Analytics & Reporting (Data Analytics) 
