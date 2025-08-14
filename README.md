@@ -9,7 +9,7 @@ Perform EDA using SQL Server to analyze sales data, enabling analytical reportin
 
 ## 🧮Specifications: 
 **Queries:** used to retrieve necessary data to fulfill understanding  
-**Data Profiling: **examining and summarizing datasets to better understand their structure, quality, and content.  
+**Data Profiling:** examining and summarizing datasets to better understand their structure, quality, and content.  
 **Aggregations:** summarize data to help you identify patterns, trends, and anomalies across groups or time periods.  
 **Subquery:** used to generate complex data from the sources 
 
