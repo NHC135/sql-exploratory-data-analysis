@@ -17,9 +17,9 @@ Perform EDA using SQL Server to analyze sales data, enabling analytical reportin
 ## 🎯BI: Analytics & Reporting (Data Analytics)     
 
 ## Objective  
-Develop SQL - based analytics to deliver detailed insights into :
+Visual analytics to deliver detailed insights into:
 
-Customer Behavior
+Customers behavior
 
 Product Performance
 
