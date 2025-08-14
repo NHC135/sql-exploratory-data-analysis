@@ -25,7 +25,7 @@ Product Performance
 
 Sales Trend
 
-Theses insights empower stakehodlers with key business metrics, enabling strategic decision making  
+Theses insights empower stakeholders with key business metrics, enabling strategic decision making  
 
 
 ## 🚧 License    
